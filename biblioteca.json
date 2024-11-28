@@ -1,0 +1,14 @@
+[
+    {
+        "Titlu": "Cartea Mea",
+        "Autor": "Autorul X",
+        "An Publicare": "2023",
+        "Sursa": "Librărie"
+    },
+    {
+        "Titlu": "Altă Carte",
+        "Autor": "Autorul Y",
+        "An Publicare": "2021",
+        "Sursa": "Bibliotecă"
+    }
+]
